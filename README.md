@@ -26,6 +26,6 @@ The game tracks how long you stay alive and challenges you to beat your previous
 ## How to Play
 1. Launch the game.  
 2. Press the **Start Game** button.  
-3. Move around with the arrow keys or WASD.  
+3. Move around with the arrow keys.  
 4. Aim with your mouse and fire using right-click.  
 5. Survive as long as you can — your timer will display how many seconds you’ve lasted.  
