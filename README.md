@@ -17,7 +17,7 @@ The game tracks how long you stay alive and challenges you to beat your previous
 ---
 
 ## Controls
-- **Arrow Keys / WASD** – Move up, down, left, and right  
+- **Arrow Keys** – Move up, down, left, and right  
 - **Mouse** – Aim  
 - **Right Click** – Fire the gun  
 
