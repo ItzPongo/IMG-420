@@ -23,13 +23,6 @@ The game tracks how long you stay alive and challenges you to beat your previous
 
 ---
 
-## Known Issues
-- **Gun collision with enemies has not yet been fully implemented.**  
-  While you can aim and shoot, enemy collision detection for bullets is not functional.
-  
-
----
-
 ## How to Play
 1. Launch the game.  
 2. Press the **Start Game** button.  
